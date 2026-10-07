@@ -1,15 +1,15 @@
 class Solution:
 
   def climbStairs(self, n: int) -> int:
-    memo = {}
+    if n <= 2:
+      return n
 
-    def helper(k: int) -> int:
-      if k <= 2:
-        return k
-      if k in memo:
-        return memo[k]
+    prev2, prev1 = 1, 2
 
-      memo[k] = helper(k - 1) + helper(k - 2)
-      return memo[k]
+    for _ in range(3, n + 1):
+      current = prev1 + prev2
+      prev2 = prev1
+      prev1 = current
 
-    return helper(n)
+    return prev1
+    
