@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/phadtare185-svg/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/phadtare185-svg/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/phadtare185-svg/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/phadtare185-svg/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/phadtare185-svg/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/phadtare185-svg/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/phadtare185-svg/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/phadtare185-svg/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/phadtare185-svg/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/phadtare185-svg/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/phadtare185-svg/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
